@@ -1,8 +1,8 @@
-# descrição:
+# Descrição:
 
 API RESTfull (Spring boot/Postgres) para controle de usuários de uma academia de ginástica.
 
-# como utilizar:
+# Como utilizar:
 
 Para subir o banco de dados Postgres acesse o diretório "database-docker", via console: 
 
